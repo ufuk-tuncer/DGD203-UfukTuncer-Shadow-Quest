@@ -1,0 +1,7 @@
+C:\Users\emirh\Desktop\QUİZ\DGD203-UfukTuncer-Shadow Quest\DGD203-UfukTuncer-Shadow Quest\bin\Debug\DGD203-UfukTuncer-Shadow Quest.exe.config
+C:\Users\emirh\Desktop\QUİZ\DGD203-UfukTuncer-Shadow Quest\DGD203-UfukTuncer-Shadow Quest\bin\Debug\DGD203-UfukTuncer-Shadow Quest.exe
+C:\Users\emirh\Desktop\QUİZ\DGD203-UfukTuncer-Shadow Quest\DGD203-UfukTuncer-Shadow Quest\bin\Debug\DGD203-UfukTuncer-Shadow Quest.pdb
+C:\Users\emirh\Desktop\QUİZ\DGD203-UfukTuncer-Shadow Quest\DGD203-UfukTuncer-Shadow Quest\obj\Debug\DGD203-UfukTuncer-Shadow Quest.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\QUİZ\DGD203-UfukTuncer-Shadow Quest\DGD203-UfukTuncer-Shadow Quest\obj\Debug\DGD203-UfukTuncer-Shadow Quest.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\QUİZ\DGD203-UfukTuncer-Shadow Quest\DGD203-UfukTuncer-Shadow Quest\obj\Debug\DGD203-UfukTuncer-Shadow Quest.exe
+C:\Users\emirh\Desktop\QUİZ\DGD203-UfukTuncer-Shadow Quest\DGD203-UfukTuncer-Shadow Quest\obj\Debug\DGD203-UfukTuncer-Shadow Quest.pdb
